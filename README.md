@@ -5,15 +5,14 @@ Sou desenvolvedor profissional de software desde 2020, trabalhando com diferente
 **Desde 2016**, tenho me dedicado a aprender o máximo possível de **Servidores Linux, Windows, redes e criações de softwares**.
 Possuo graduação em Sistemas de Informação pela Universidade Estácio de Sá.
 Sou bastante entusiasmado pelo meu trabalho e acredito que fazer um software melhor é uma forma de construir um mundo melhor.
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="cplusplus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="qt" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg">
-  <img align="center" alt="sqldeveloper" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqldeveloper/sqldeveloper-original.svg">
-  <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img align="center" alt="windows" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg">
-</div>
+<p>
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg">
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqldeveloper/sqldeveloper-original.svg">
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg">
+</p>
   
   ##
  
