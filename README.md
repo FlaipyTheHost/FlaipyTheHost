@@ -19,4 +19,4 @@ Sou bastante entusiasmado pelo meu trabalho e acredito que fazer um software mel
 <div> 
   <a href="https://github.com/FlaipyTheHost" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
   <a href = "mailto:carlosantoniosilvaaraujo@protonmail.com"><img src="https://img.shields.io/badge/Proton%20Mail-6D4AFF?style=for-the-badge&logo=Tutanota&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/carlos-ant%C3%B4nio-silva-de-ara%C3%BAjo-abb708233/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/carlos-ara%C3%BAjo-abb708233/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
